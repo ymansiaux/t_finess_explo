@@ -11,3 +11,6 @@ dependencies = [
     "polars>=1.30.0",
     "pyarrow>=20.0.0",
 ]
+
+[tool.setuptools.packages.find]
+include = ["finess*"]
