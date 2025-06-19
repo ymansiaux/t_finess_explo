@@ -8,6 +8,7 @@ dependencies = [
     "folium>=0.20.0",
     "geopandas>=1.1.0",
     "ipykernel>=6.29.5",
+    "plotnine>=0.14.5",
     "polars>=1.30.0",
     "pyarrow>=20.0.0",
     "pytest>=8.4.1",

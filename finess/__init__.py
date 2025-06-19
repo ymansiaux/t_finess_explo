@@ -1,1 +1,1 @@
-__all__ = ["cleaning"]
+__all__ = ["cleaning", "stats_by_dept"]

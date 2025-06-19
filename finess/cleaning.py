@@ -15,6 +15,7 @@ def clean_finess_data(
     if cols_to_keep is None:
         cols_to_keep = [
             "finess",
+            "dept",
             "rs",
             "mco",
             "ssr",
